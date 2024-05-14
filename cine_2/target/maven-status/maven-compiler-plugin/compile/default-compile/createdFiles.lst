@@ -1,0 +1,4 @@
+model\Cine.class
+run\Runner.class
+control\Controller.class
+view\IOmanagger.class
